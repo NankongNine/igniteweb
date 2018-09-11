@@ -1,0 +1,7 @@
+server:
+  port: 8080
+  servlet:
+    path: /igniteweb
+spring:
+  profiles:
+    active: dev
